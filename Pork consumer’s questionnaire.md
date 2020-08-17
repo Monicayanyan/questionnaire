@@ -89,9 +89,9 @@ the third is_________ brand of pork, which accounts for _________% of your total
 (A) Look at the stalls and compare them to determine which stall to buy at.     
 Reason:                                                                                
 (B) In general, you purchase in a familiar meat stall (which does not sell branded pork).    
-Reason:                                                                           
-(C) In general, you go straight to the meat stall to buy some preferred branded pork (brand name:_________)    
- Reason:                                                                              
+Reason:     
+(C) In general, you go straight to the meat stall to buy some preferred branded pork (brand name:_________)     
+Reason:                                                                                 
 (D) I would rather travel a long distance to buy some preferred branded pork (brand name:_________).    
 Reason:                                                                              
 
