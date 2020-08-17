@@ -1,4 +1,5 @@
 # questionnaire
+#Copyright by Wen'e Qi, School of economics and management, South China Agricultural University
 ##Pork consumer’s questionnaire
 ##Interview time:                            
 ###Interviewer:
@@ -155,6 +156,7 @@ On which situation will you buy pork?
 (E) 9001-11000 RMB    (G) 11001-20000 RMB   (H) More than 20001 RMB
 
 25. The occupation of the family's primary income earner is:
+
 (A) Management personnel of enterprises and institutions 
 (B) General staff of enterprises and institutions
 (C) Teacher
