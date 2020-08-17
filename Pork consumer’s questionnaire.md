@@ -1,9 +1,9 @@
-# questionnaire
+# Pork consumer’s questionnaire
 
 
 # Pork consumer’s questionnaire
 
-### Copyright by Wen'e Qi, School of economics and management, South China Agricultural University
+### Copyright by Wen'e Qi, School of Economics and Management, South China Agricultural University
 
 ## Interview time:   
 
@@ -91,23 +91,23 @@ Reason:
 ## 11. There are [enter number] _________ individuals who often eat at home in your family.
 When you buy pork, whose needs/preferences do you focus on? Choose the best option (     ) and fill the number below.    
 
-(A) My own (Age:     )        
-(B) Spouse (Age:     )       
-(C) Child (Age:     )       
-(D) Grandchild (Age:     )    
-(E) Host (Age:    )    
-(G) Hostess (Age:    )    
-(H) Host’s child( Age:    )    
-(I) Host’s grandchild (Age:    )     
-(J) Others: _________  (Age:    )    
+(A) My own (Age:_________)        
+(B) Spouse (Age:_________)       
+(C) Child (Age:_________)       
+(D) Grandchild (Age:_________)    
+(E) Host (Age:_________)    
+(G) Hostess (Age:_________)    
+(H) Host’s child( Age:_________)    
+(I) Host’s grandchild (Age:_________)     
+(J) Others: _________  (Age:_________)    
 
 ## 12. How would you react if the price of pork went up? (     )
 
 (A) In any case, you will eat pork, and will not change your buying habits          
 (B) You will immediately reduce your purchase of pork    
-(C) Once the price of pork rises more than _________%, you will reduce your consumption of pork, but will not increase the consumption of other meats at the same time     
+(C) Once the price of pork rises more than _________%, you will reduce your consumption of pork, but will not increase the consumption of other meats at the same time       
 (D) When the price of pork rises by more than _________%, you will reduce the consumption of pork and increase the consumption of _________.    
-(E) Others:__________________    
+(E) Others:_______   
 
 ## 13. Choose the five most important factors you consider when buying pork below _________,_________,_________,_________,           
 
