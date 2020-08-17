@@ -25,17 +25,12 @@ Reason:
 
 ## 2. Generally speaking, how do you think that pork in agricultural product trade (or meat and vegetable) markets compares to pork in supermarkets in the following ways:
 
-(A) Price:             Cheaper        Almost        More expensive
-
-(B) Quality:           Higher         Almost        Lower
-
-(C) Safety:            Higher         Almost        Lower
-
-(D) Freshness:         Higher         Almost        Lower
-
-(E) Variety:           More          Almost        Fewer 
-
-(G) Others            Better         Almost        Worse
+(A) Price:             Cheaper        Almost        More expensive    
+(B) Quality:           Higher         Almost        Lower    
+(C) Safety:            Higher         Almost        Lower    
+(D) Freshness:         Higher         Almost        Lower    
+(E) Variety:           More          Almost        Fewer    
+(G) Others            Better         Almost        Worse    
 
 ## 3. How often does your family buy pork?
 
