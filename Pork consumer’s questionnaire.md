@@ -50,12 +50,11 @@ Reason:
 (6 )Blade      (H) Pork belly    (I)Hindquarter pork   (J)Trotters  
 (K) Head   (L) I can't tell anything
 
-## 7. Of the above pork products, the three kinds you usually buy the most are:      ,        ,       
+## 7. Of the above pork products, the three kinds you usually buy the most are: _________,_________,_________       
 
-## 8.What pork brands do you know       , any other brand?                
+## 8.What pork brands do you know _________, any other brand?                
 
-## 9.              Which brand of pork have you bought the most so far this year, 
-and why?                                                                       
+## 9._________ Which brand of pork have you bought the most so far this year, and why?                                                                       
 
 This brand of pork accounts for_________% of your total pork consumption, followed by_________brand of pork, which accounts for_________% of your total pork consumption; the third is_________ brand of pork, which accounts for _________% of your total pork consumption.
 
@@ -171,4 +170,4 @@ On which situation will you buy pork?
 (G) Individual industrial and commercial households 
 (H) Other
 
-## #Note: hot fresh pork refers to the fresh pork sold directly after slaughtering without cooling treatment, the temperature of pork is about 40-42 ℃. Cold fresh pork refers to the pork cooled quickly after slaughtering, the temperature of pork should be decreased and kept to 0-4 ℃ throughout circulation and distribution. Frozen pork refers to pork frozen and preserved in an environment below -23 ℃ after slaughtering.
+#### Note: hot fresh pork refers to the fresh pork sold directly after slaughtering without cooling treatment, the temperature of pork is about 40-42 ℃. Cold fresh pork refers to the pork cooled quickly after slaughtering, the temperature of pork should be decreased and kept to 0-4 ℃ throughout circulation and distribution. Frozen pork refers to pork frozen and preserved in an environment below -23 ℃ after slaughtering.
