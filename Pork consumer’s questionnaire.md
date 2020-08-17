@@ -15,14 +15,14 @@
 
 ## 1. Where do you usually buy pork? Why?
 
-(A) I buy all of them in this market.
-Reason:                                   
-(B) I buy mainly here, and sometimes go to a market or supermarket nearby.
-The market (or supermarket) name is (or are) :                          
+(A) I buy all of them in this market.    
+Reason:                                     
+(B) I buy mainly here, and sometimes go to a market or supermarket nearby.    
+The market (or supermarket) name is (or are) :                           
 Reason:                                    
-(C) I buy mainly in_________supermarket (or market), and I just come here to buy it once in a while.
+(C) I buy mainly in_________supermarket (or market), and I just come here to buy it once in a while.    
 Reason:                               
-(D) I buy mainly here and in _________ supermarket (or market), and I buy pork about the same number of times in these two places.
+(D) I buy mainly here and in _________ supermarket (or market), and I buy pork about the same number of times in these two places.    
 Reason:                                
 
 ## 2. Generally speaking, how do you think that pork in agricultural product trade (or meat and vegetable) markets compares to pork in supermarkets in the following ways:
