@@ -3,6 +3,7 @@
 ##Interview time:                            
 ###Interviewer:
 ###Interview place:
+
 1. Where do you usually buy pork? Why?
 
 (A) I buy all of them in this market.
@@ -16,6 +17,7 @@ Reason:
 Reason:                                
 
 2. Generally speaking, how do you think that pork in agricultural product trade (or meat and vegetable) markets compares to pork in supermarkets in the following ways:
+
 (A) Price:             Cheaper        Almost        More expensive
 (B) Quality:           Higher         Almost        Lower
 (C) Safety:            Higher         Almost        Lower
@@ -24,15 +26,19 @@ Reason:
 (G) Others            Better         Almost        Worse
 
 3. How often does your family buy pork?
+
 (A) Everyday   (B) Every other day  (C) Once every three days (D) Once every four days  (E) Once every five days  (G) Less often 
 
 4. The average cost in your family to buy fresh pork is about (        ).
+
 (A) Less than 10 RMB  (B)10-20 RMB  (C)20-30 RMB;  (D)30-40 RMB (E) More than 40 RMB
 
 5. The proportion of your family's monthly expenditure on fresh pork accounting for the total meat expenditure is (         ).
+
 (A) More than 90% (B) 70%-90% (C) 50%-70% (D) 30%-50% (E) 10%-30% (G) Less than 10%
 
 6. If the stall does not label the pork, can you clearly identify the following pork products? (           )
+
 (A) Streaky pork    (B) Tenderloin pork   (C)Tail pork   (D)Top buttock pork   (E) Forehock
 (6 )Blade      (H) Pork belly    (I)Hindquarter pork   (J)Trotters  
 (K) Head   (L) I can't tell anything
@@ -47,6 +53,7 @@ and why?
 This brand of pork accounts for_________% of your total pork consumption, followed by_________brand of pork, which accounts for_________% of your total pork consumption; the third is_________ brand of pork, which accounts for _________% of your total pork consumption.
 
 10. When you get to the market, which of the following statements best describes your usual behavior: 
+
 (A) Look at the stalls and compare them to determine which stall to buy at. 
 Reason:                                                                            
 (B) In general, you purchase in a familiar meat stall (which does not sell branded pork).
@@ -58,6 +65,7 @@ Reason:
 
 11. There are [enter number] _________ individuals who often eat at home in your family. 
 When you buy pork, whose needs/preferences do you focus on? Choose the best option (     ) and fill the number below.
+
 (A) My own;
 (B) Spouse
 (C) Child (Age:     )
@@ -78,6 +86,7 @@ When you buy pork, whose needs/preferences do you focus on? Choose the best opti
 13. Choose the five most important factors you consider when buying pork below          ,          ,          ,         ,           
 
 If 10 points indicate that they are very important, how many points would you score? 
+
 (A) Brand       ;  (B) Nutrient        ;  
 (C) Price       ;   (D) Safety       ;
 (E) Word mouth        ;  (G) Appearance       ; 
@@ -95,12 +104,15 @@ green food       , organic food       , and pollution-free food       .
 15. Among green food, organic food and pollution-free food, which one you regard to be with the most guaranteed quality?              
 
 16. What do you think is the safety level of pork sold on the market? (     )
+
 (A) Very low (B) Low (C) General (D) High (E) Very high
 
 17. Do you think you can distinguish the quality of pork in terms of safety?
+
 (A) It is difficult to (B) Generally not (C) Maybe, generally (D) In most cases (E) Can be fully
 
 18. Which aspects do you usually use to determine which pork product is safer? (           )
+
 (A) Simply cannot judge
 (B) Higher prices, higher safety 
 (C) Judge by observing its appearance 
@@ -116,6 +128,7 @@ green food       , organic food       , and pollution-free food       .
 19. There are three kinds of pork -- hot fresh pork, cold fresh pork and frozen pork. Please order them according to their quality                         .
 
 20. You think the price of cold fresh pork should be (     ) that of the hot fresh pork.
+
  (A) Higher than  (B) The same as  (C) Lower than
 Why?                                                                                                                                                            .
 
@@ -125,6 +138,7 @@ and your most recent purchase is         days so far;
 the brand of cold fresh pork you bought is               .
 
 22. Will you start or continue to buy cold fresh pork in the future?
+
 (A)No, I won’t.
 Why you won’t?                                                                             
 (B) Yes, I shall. 
@@ -136,6 +150,7 @@ On which situation will you buy pork?
  Gender:         ; Age:         ; Educational attainment:                 
 
 24. The average monthly household income is: 
+
 (A) Less than 3000 RMB  (B) 3001-5000 RMB     (C) 5001-7000 RMB  (D)7001-9000 RMB 
 (E) 9001-11000 RMB    (G) 11001-20000 RMB   (H) More than 20001 RMB
 
