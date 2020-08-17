@@ -88,17 +88,17 @@ Reason:
 (D) I would rather travel a long distance to buy some preferred branded pork (brand name:_________).    
 Reason:                                                                              
 
-## 11. There are [enter number] _________ individuals who often eat at home in your family.
+## 11. There are [enter number] ________ individuals who often eat at home in your family.
 When you buy pork, whose needs/preferences do you focus on? Choose the best option (     ) and fill the number below.    
 
-(A) My own (Age:_________)        
-(B) Spouse (Age:_________)       
-(C) Child (Age:_________)       
+(A) My own (Age:_________)    
+(B) Spouse (Age:_________)    
+(C) Child (Age:_________)    
 (D) Grandchild (Age:_________)    
 (E) Host (Age:_________)    
 (G) Hostess (Age:_________)    
 (H) Host’s child( Age:_________)    
-(I) Host’s grandchild (Age:_________)     
+(I) Host’s grandchild (Age:_________)    
 (J) Others: _________  (Age:_________)    
 
 ## 12. How would you react if the price of pork went up? (     )
