@@ -1,9 +1,13 @@
 # questionnaire
-#Copyright by Wen'e Qi, School of economics and management, South China Agricultural University
-##Pork consumer’s questionnaire
-##Interview time:                            
-###Interviewer:
-###Interview place:
+Copyright by Wen'e Qi, School of economics and management, South China Agricultural University
+
+Pork consumer’s questionnaire
+
+Interview time:   
+
+Interviewer:
+
+Interview place:
 
 1. Where do you usually buy pork? Why?
 
