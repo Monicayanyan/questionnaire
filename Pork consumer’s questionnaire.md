@@ -18,9 +18,9 @@ Reason:
 (B) I buy mainly here, and sometimes go to a market or supermarket nearby.
 The market (or supermarket) name is (or are) :                          
 Reason:                                    
-(C) I buy mainly in                   supermarket (or market), and I just come here to buy it once in a while.
+(C) I buy mainly in_________supermarket (or market), and I just come here to buy it once in a while.
 Reason:                               
-(D) I buy mainly here and in                   supermarket (or market), and I buy pork about the same number of times in these two places.
+(D) I buy mainly here and in _________ supermarket (or market), and I buy pork about the same number of times in these two places.
 Reason:                                
 
 ## 2. Generally speaking, how do you think that pork in agricultural product trade (or meat and vegetable) markets compares to pork in supermarkets in the following ways:
@@ -34,7 +34,12 @@ Reason:
 
 ## 3. How often does your family buy pork?
 
-(A) Everyday   (B) Every other day  (C) Once every three days (D) Once every four days  (E) Once every five days  (G) Less often 
+(A) Everyday   
+(B) Every other day  
+(C) Once every three days 
+(D) Once every four days  
+(E) Once every five days  
+(G) Less often 
 
 ## 4. The average cost in your family to buy fresh pork is about (        ).
 
@@ -46,9 +51,17 @@ Reason:
 
 ## 6. If the stall does not label the pork, can you clearly identify the following pork products? (           )
 
-(A) Streaky pork    (B) Tenderloin pork   (C)Tail pork   (D)Top buttock pork   (E) Forehock
-(6 )Blade      (H) Pork belly    (I)Hindquarter pork   (J)Trotters  
-(K) Head   (L) I can't tell anything
+(A) Streaky pork    
+(B) Tenderloin pork   
+(C)Tail pork   
+(D)Top buttock pork   
+(E) Forehock
+(6 )Blade      
+(H) Pork belly    
+(I)Hindquarter pork   
+(J)Trotters  
+(K) Head   
+(L) I can't tell anything
 
 ## 7. Of the above pork products, the three kinds you usually buy the most are: _________,_________,_________       
 
@@ -56,7 +69,9 @@ Reason:
 
 ## 9._________ Which brand of pork have you bought the most so far this year, and why?                                                                       
 
-This brand of pork accounts for_________% of your total pork consumption, followed by_________brand of pork, which accounts for_________% of your total pork consumption; the third is_________ brand of pork, which accounts for _________% of your total pork consumption.
+This brand of pork accounts for_________% of your total pork consumption, 
+followed by_________brand of pork, which accounts for_________% of your total pork consumption; 
+the third is_________ brand of pork, which accounts for _________% of your total pork consumption.
 
 ## 10. When you get to the market, which of the following statements best describes your usual behavior: 
 
@@ -64,9 +79,9 @@ This brand of pork accounts for_________% of your total pork consumption, follow
 Reason:                                                                            
 (B) In general, you purchase in a familiar meat stall (which does not sell branded pork).
 Reason:                                                                           
-(C) In general, you go straight to the meat stall to buy some preferred branded pork (brand name:             )
+(C) In general, you go straight to the meat stall to buy some preferred branded pork (brand name:_________)
  Reason:                                                                          
-(D) I would rather travel a long distance to buy some preferred branded pork (brand name:                  ).
+(D) I would rather travel a long distance to buy some preferred branded pork (brand name:_________).
 Reason:                                                                          
 
 ## 11. There are [enter number] _________ individuals who often eat at home in your family. 
@@ -83,39 +98,53 @@ When you buy pork, whose needs/preferences do you focus on? Choose the best opti
 (J) Others:                  (Age:    )
 
 ## 12. How would you react if the price of pork went up? (     )
+
 (A) In any case, you will eat pork, and will not change your buying habits      
 (B) You will immediately reduce your purchase of pork
 (C) Once the price of pork rises more than    %, you will reduce your consumption of pork, but will not increase the consumption of other meats at the same time
 (D) When the price of pork rises by more than    %, you will reduce the consumption of pork and increase the consumption of          .
 (E) Others:
 
-## 13. Choose the five most important factors you consider when buying pork below          ,          ,          ,         ,           
+## 13. Choose the five most important factors you consider when buying pork below _________,_________,_________,_________,           
 
 If 10 points indicate that they are very important, how many points would you score? 
 
-(A) Brand       ;  (B) Nutrient        ;  
-(C) Price       ;   (D) Safety       ;
-(E) Word mouth        ;  (G) Appearance       ; 
-(H) Taste        ;   (I) Freshness        ;
-(J) Sales person’s service attitude       ;      
-(K) Others:               .
+(A) Brand_________;  
+(B) Nutrient_________;  
+(C) Price_________;   
+(D) Safety_________;
+(E) Word mouth_________;  
+(G) Appearance_________; 
+(H) Taste_________;   
+(I) Freshness_________;
+(J) Sales person’s service attitude_________;      
+(K) Others:_________.
 
 ## 14. Have you heard about green food? (      ) [Enter Yes or No]
+
 Have you heard about Organic food? (      ) [Enter Yes or No]
 Have you heard about Pollution-free food ? (      ) [Enter Yes or No]
 
 If 10 points indicates that you know a great deal about it, how much do you know about: 
-green food       , organic food       , and pollution-free food       .
+green food_________, organic food_________, and pollution-free food_________.
 
 ## 15. Among green food, organic food and pollution-free food, which one you regard to be with the most guaranteed quality?              
 
 ## 16. What do you think is the safety level of pork sold on the market? (     )
 
-(A) Very low (B) Low (C) General (D) High (E) Very high
+(A) Very low 
+(B) Low 
+(C) General 
+(D) High 
+(E) Very high
 
 ## 17. Do you think you can distinguish the quality of pork in terms of safety?
 
-(A) It is difficult to (B) Generally not (C) Maybe, generally (D) In most cases (E) Can be fully
+(A) It is difficult to 
+(B) Generally not 
+(C) Maybe, generally 
+(D) In most cases 
+(E) Can be fully
 
 ## 18. Which aspects do you usually use to determine which pork product is safer? (           )
 
@@ -135,8 +164,10 @@ green food       , organic food       , and pollution-free food       .
 
 ## 20. You think the price of cold fresh pork should be (     ) that of the hot fresh pork.
 
- (A) Higher than  (B) The same as  (C) Lower than
-Why?                                                                                                                                                            .
+ (A) Higher than  
+ (B) The same as  
+ (C) Lower than
+Why? ___________________________________________________________________________________________________.
 
 ## 21. Have you ever bought cold fresh pork?           
 On average, you buy cold fresh pork every       days [enter number]; 
@@ -153,12 +184,19 @@ Why?
 On which situation will you buy pork?                                                           
 
 ## 23.Personal information
- Gender:         ; Age:         ; Educational attainment:                 
+ Gender:_________; 
+ Age:_________; 
+ Educational attainment:_________。                 
 
 ## 24. The average monthly household income is: 
 
-(A) Less than 3000 RMB  (B) 3001-5000 RMB     (C) 5001-7000 RMB  (D)7001-9000 RMB 
-(E) 9001-11000 RMB    (G) 11001-20000 RMB   (H) More than 20001 RMB
+(A) Less than 3000 RMB  
+(B) 3001-5000 RMB     
+(C) 5001-7000 RMB  
+(D)7001-9000 RMB 
+(E) 9001-11000 RMB    
+(G) 11001-20000 RMB   
+(H) More than 20001 RMB
 
 ## 25. The occupation of the family's primary income earner is:
 
