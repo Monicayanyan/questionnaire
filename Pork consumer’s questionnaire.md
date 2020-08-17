@@ -181,9 +181,9 @@ green food_________, organic food_________, and pollution-free food_________.
 Why? ___________________________________________________________________________________________________.    
    
 ## 21. Have you ever bought cold fresh pork?           
-On average, you buy cold fresh pork every _________days [enter number];     
-and your most recent purchase is _________ days so far;     
-the brand of cold fresh pork you bought is _________.    
+On average, you buy cold fresh pork every _________days [enter number];      
+and your most recent purchase is _________ days so far;        
+the brand of cold fresh pork you bought is _________.        
 
 ## 22. Will you start or continue to buy cold fresh pork in the future?
 
@@ -195,9 +195,10 @@ Why?
 On which situation will you buy pork?                                                               
 
 ## 23.Personal information
- Gender:_________;     
- Age:_________;     
- Educational attainment:_________。                     
+
+ Gender:_________;        
+ Age:_________;         
+ Educational attainment:_________.                       
 
 ## 24. The average monthly household income is: 
 
