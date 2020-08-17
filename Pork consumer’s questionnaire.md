@@ -5,6 +5,8 @@
 
 ### Copyright by Wen'e Qi, School of Economics and Management, South China Agricultural University
 
+### Email:qiwene@scau.edu.cn
+
 ## Interview time:   
 
 ## Interviewer:
