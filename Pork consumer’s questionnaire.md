@@ -51,7 +51,12 @@ Reason:
 
 ## 5. The proportion of your family's monthly expenditure on fresh pork accounting for the total meat expenditure is (         ).
 
-(A) More than 90% (B) 70%-90% (C) 50%-70% (D) 30%-50% (E) 10%-30% (G) Less than 10%
+(A) More than 90%   
+(B) 70%-90%    
+(C) 50%-70%   
+(D) 30%-50%   
+(E) 10%-30%    
+(G) Less than 10%
 
 ## 6. If the stall does not label the pork, can you clearly identify the following pork products? (           )
 
