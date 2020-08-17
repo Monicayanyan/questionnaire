@@ -196,9 +196,9 @@ On which situation will you buy pork?
 
 ## 23.Personal information
 
-Gender:_________;        
-Age:_________;         
-Educational attainment:_________.                       
+Gender:           
+Age:            
+Educational attainment:                          
 
 ## 24. The average monthly household income is: 
 
