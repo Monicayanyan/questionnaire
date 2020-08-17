@@ -4,6 +4,7 @@
 ###Interviewer:
 ###Interview place:
 1. Where do you usually buy pork? Why?
+
 (A) I buy all of them in this market.
 Reason:                                   
 (B) I buy mainly here, and sometimes go to a market or supermarket nearby.
