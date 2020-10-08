@@ -134,12 +134,12 @@ If 10 points indicate that they are very important, how many points would you sc
 ## 14. Have you heard about green food? (      ) [Enter Yes or No]    
 
 Have you heard about Organic food? (      ) [Enter Yes or No]      
-Have you heard about Pollution-free food ? (      ) [Enter Yes or No]     
+Have you heard about Nuisance-free food ? (      ) [Enter Yes or No]     
 
 If 10 points indicates that you know a great deal about it, how much do you know about:     
-green food_________, organic food_________, and pollution-free food_________.    
+green food_________, organic food_________, and nuisance-free food_________.    
 
-## 15. Among green food, organic food and pollution-free food, which one you regard to be with the most guaranteed quality?              
+## 15. Among green food, organic food and nuisance-free food, which one you regard to be with the most guaranteed quality?              
 
 ## 16. What do you think is the safety level of pork sold on the market? (     )
 
